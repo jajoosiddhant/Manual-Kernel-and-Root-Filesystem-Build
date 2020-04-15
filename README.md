@@ -8,7 +8,7 @@ Execute the following commands to install crosstool-ng in the current working di
 ./manual_linux.sh
 ```
 
-Make sure to add path for the cross-compile utility located in the x-tools folder. 
+Make sure to add path for the cross-compile utility `arm-unknown-linux-gnueabi` located in the x-tools folder before running manual_linux.sh script. 
 
 
 Steps to add path in .bashrc file:  
